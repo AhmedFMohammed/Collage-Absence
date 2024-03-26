@@ -29,6 +29,20 @@ The College Absence App is a mobile application built with Flutter, designed to 
 
 * [![Flutter][flutter]][flutter-url]
 * [![SQLite][SQLite]][SQLite-url]
+* [![DjangoREST][DjangoREST]][DjangoREST-url]
+
+## ScreenShots
+
+<div align="center">
+  <img src="login-page.png" width="200" />
+  <img src="home-page.png" width="200" />
+  <img src="grade-page.png" width="200" />
+  <img src="stage-page.png" width="200" />
+  <img src="schedule-page.png" width="200" />
+  <img src="attendance-page.png" width="200" />
+  <img src="lesson-attendance-page.png" width="200" />
+</div>
+
 
 
  ## Installation
@@ -37,7 +51,7 @@ To run this application locally, make sure you have Flutter installed. Then, fol
 1. Clone this repository to your local machine:
 
 ```bash
-   git clone https://github.com/your-username/college-absence-app.git
+   git clone https://github.com/AhmedFMohammed/Collage-Absence.git
 ```
 2. Navigate to the project directory:
 
@@ -73,6 +87,8 @@ For any inquiries or support, please contact [Ahmed Falah](mailto:ahmed.f.mohamm
 [flutter-url]:  https://docs.flutter.dev/get-started/install
 [SQLite]:   https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [SQLite-url]:  https://pub.dev/packages/sqflite
+[DjangoREST]:    https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
+[DjangoREST-url]:  https://www.django-rest-framework.org/
 
 
 
